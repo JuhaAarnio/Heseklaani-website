@@ -1,0 +1,24 @@
+{
+  "name": "heseklaani",
+  "version": "1.0.0",
+  "description": "Heseklaanin kotisivut",
+  "main": "heseklaani.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taikapipari/Heseklaani-website.git"
+  },
+  "author": "Juha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taikapipari/Heseklaani-website/issues"
+  },
+  "homepage": "https://github.com/Taikapipari/Heseklaani-website#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "git": "^0.1.5"
+  }
+}
